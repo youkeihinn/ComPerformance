@@ -56,7 +56,7 @@ ComPerformance<br>
     1.下载最新版本 
     2.在mysql数据库中建一个comperformance数据库，然后导入sql 
     3.修改settings中的DATABASES 
-    4.sudo easy_install django-grappelli 
+    4.sudo easy_install django-grappelli==2.2
     5.sudo easy_install xlrd 
     6.sudo easy_install pil
     7.python manage.py runserver 
